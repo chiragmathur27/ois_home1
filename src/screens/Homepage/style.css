@@ -1,0 +1,1136 @@
+.HOMEPAGE-HOMEPAGE-wrapper {
+  background-color: #2b2b2b;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.HOMEPAGE-HOMEPAGE {
+  background-color: #2b2b2b;
+  border: 1px none;
+  height: 4863px;
+  overflow: hidden;
+  position: relative;
+  width: 1728px;
+}
+
+.HOMEPAGE-overlap {
+  height: 1078px;
+  left: -16px;
+  position: absolute;
+  top: 2679px;
+  width: 1783px;
+}
+
+.HOMEPAGE-pexels-maria-orlova {
+  height: 1078px;
+  left: 16px;
+  position: absolute;
+  top: 0;
+  width: 1728px;
+}
+
+.HOMEPAGE-rectangle {
+  background: linear-gradient(
+    180deg,
+    rgb(100.94, 100.94, 100.94) 0%,
+    rgb(62.83, 78.35, 88.19) 100%
+  );
+  border-radius: 45px;
+  box-shadow: 0px 24px 20px #0000005e;
+  height: 899px;
+  left: 1133px;
+  position: absolute;
+  top: 87px;
+  width: 522px;
+}
+
+.HOMEPAGE-rectangle-69 {
+  background: linear-gradient(
+    180deg,
+    rgb(255, 247, 32) 0%,
+    rgb(60, 213, 0) 100%
+  );
+  border-radius: 45px 45px 0px 0px;
+  box-shadow: 0px 24px 20px #0000005e;
+  height: 86px;
+  left: 1133px;
+  position: absolute;
+  top: 87px;
+  width: 522px;
+}
+
+.HOMEPAGE-rectangle-35 {
+  background-color: #0f0f0f;
+  border-radius: 0px 21px 0px 21px;
+  box-shadow: 0px 26px 14px -13px #00000063;
+  height: 66px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1783px;
+}
+
+.HOMEPAGE-rectangle-42 {
+  background-color: #0f0f0f;
+  border-radius: 0px 21px 0px 21px;
+  box-shadow: 0px 26px 14px -13px #00000063;
+  height: 66px;
+  left: 0;
+  position: absolute;
+  top: 1012px;
+  width: 1783px;
+}
+
+.HOMEPAGE-THE-FACILITY {
+  color: #ffffff;
+  font-family: "Do Hyeon", Helvetica;
+  font-size: 37px;
+  font-weight: 400;
+  left: 636px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 11px;
+  width: 487px;
+}
+
+.HOMEPAGE-CONTACT-US {
+  color: #ffffff;
+  font-family: "Do Hyeon", Helvetica;
+  font-size: 37px;
+  font-weight: 400;
+  left: 636px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 1023px;
+  width: 487px;
+}
+
+.HOMEPAGE-rectangle-36 {
+  background-color: #b8ff5d;
+  height: 12px;
+  left: 1058px;
+  position: absolute;
+  top: 28px;
+  width: 686px;
+}
+
+.HOMEPAGE-rectangle-43 {
+  background-color: #b8ff5d;
+  height: 12px;
+  left: 1058px;
+  position: absolute;
+  top: 1040px;
+  width: 686px;
+}
+
+.HOMEPAGE-rectangle-37 {
+  background-color: #b8ff5d;
+  height: 12px;
+  left: 16px;
+  position: absolute;
+  top: 27px;
+  width: 686px;
+}
+
+.HOMEPAGE-rectangle-44 {
+  background-color: #b8ff5d;
+  height: 12px;
+  left: 16px;
+  position: absolute;
+  top: 1039px;
+  width: 686px;
+}
+
+.HOMEPAGE-SPECIFICATIONS {
+  color: #000000;
+  font-family: "Inter", Helvetica;
+  font-size: 34px;
+  font-weight: 900;
+  left: 1248px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 110px;
+}
+
+.HOMEPAGE-element-sq-ft {
+  color: #c7c7c7;
+  font-family: "Inter", Helvetica;
+  font-size: 24px;
+  font-weight: 400;
+  left: 1325px;
+  letter-spacing: 0;
+  line-height: normal;
+  mix-blend-mode: screen;
+  position: absolute;
+  top: 260px;
+  width: 178px;
+}
+
+.HOMEPAGE-text-wrapper {
+  font-weight: 800;
+}
+
+.HOMEPAGE-span {
+  font-weight: 500;
+}
+
+.HOMEPAGE-element-batting-cages {
+  color: #c7c7c7;
+  font-family: "Inter", Helvetica;
+  font-size: 24px;
+  font-weight: 400;
+  left: 1325px;
+  letter-spacing: 0;
+  line-height: normal;
+  mix-blend-mode: screen;
+  position: absolute;
+  top: 346px;
+  width: 234px;
+}
+
+.HOMEPAGE-element-dedicated-cages-for-hittrax-fungoman-BOLA-machine {
+  color: #c7c7c7;
+  font-family: "Inter", Helvetica;
+  font-size: 24px;
+  font-weight: 400;
+  left: 1325px;
+  letter-spacing: 0;
+  line-height: normal;
+  mix-blend-mode: screen;
+  position: absolute;
+  top: 422px;
+  width: 305px;
+}
+
+.HOMEPAGE-video-analysis {
+  color: #c7c7c7;
+  font-family: "Inter", Helvetica;
+  font-size: 24px;
+  font-weight: 400;
+  left: 1325px;
+  letter-spacing: 0;
+  line-height: normal;
+  mix-blend-mode: screen;
+  position: absolute;
+  top: 557px;
+  width: 204px;
+}
+
+.HOMEPAGE-certified-coaches {
+  color: #c7c7c7;
+  font-family: "Inter", Helvetica;
+  font-size: 24px;
+  font-weight: 400;
+  left: 1325px;
+  letter-spacing: 0;
+  line-height: normal;
+  mix-blend-mode: screen;
+  position: absolute;
+  top: 648px;
+  width: 252px;
+}
+
+.HOMEPAGE-monthly-evaluation-feedback {
+  color: #c7c7c7;
+  font-family: "Inter", Helvetica;
+  font-size: 24px;
+  font-weight: 400;
+  left: 1325px;
+  letter-spacing: 0;
+  line-height: normal;
+  mix-blend-mode: screen;
+  position: absolute;
+  top: 744px;
+  width: 252px;
+}
+
+.HOMEPAGE-KPI-metrics {
+  color: #c7c7c7;
+  font-family: "Inter", Helvetica;
+  font-size: 24px;
+  font-weight: 400;
+  left: 1325px;
+  letter-spacing: 0;
+  line-height: normal;
+  mix-blend-mode: screen;
+  position: absolute;
+  top: 865px;
+  width: 252px;
+}
+
+.HOMEPAGE-area {
+  height: 61px;
+  left: 1208px;
+  mix-blend-mode: screen;
+  object-fit: cover;
+  position: absolute;
+  top: 241px;
+  width: 61px;
+}
+
+.HOMEPAGE-vector {
+  height: 1px;
+  left: 1133px;
+  object-fit: cover;
+  position: absolute;
+  top: 173px;
+  width: 521px;
+}
+
+.HOMEPAGE-screenshot-at {
+  height: 58px;
+  left: 1206px;
+  object-fit: cover;
+  position: absolute;
+  top: 335px;
+  width: 68px;
+}
+
+.HOMEPAGE-image {
+  height: 138px;
+  left: 1171px;
+  object-fit: cover;
+  position: absolute;
+  top: 390px;
+  width: 138px;
+}
+
+.HOMEPAGE-iconsax-linear-video {
+  height: 65px;
+  left: 1206px;
+  position: absolute;
+  top: 537px;
+  width: 73px;
+}
+
+.HOMEPAGE-iconsax-linear-okru {
+  height: 65px;
+  left: 1207px;
+  position: absolute;
+  top: 631px;
+  width: 65px;
+}
+
+.HOMEPAGE-iconsax-linear-calendarsearch {
+  height: 68px;
+  left: 1206px;
+  position: absolute;
+  top: 735px;
+  width: 68px;
+}
+
+.HOMEPAGE-group {
+  height: 60px;
+  left: 1209px;
+  position: absolute;
+  top: 847px;
+  width: 60px;
+}
+
+.HOMEPAGE-overlap-group12 {
+  height: 1919px;
+  left: 0;
+  position: absolute;
+  top: 760px;
+  width: 1728px;
+}
+
+.HOMEPAGE-pexels-vlad-chean {
+  height: 1213px;
+  left: 0;
+  position: relative;
+  top: 351px;
+  width: 1728px;
+  will-change: transform;
+  transform: translate3d(0px, -180px, 0px);
+  z-index: 0;
+}
+
+.HOMEPAGE-rectangle-15 {
+  background-color: #040404;
+  height: 647px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1728px;
+}
+
+.HOMEPAGE-professional-baseball-players {
+  height: 653px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1728px;
+}
+
+.HOMEPAGE-IMAGESEQ {
+  height: 773px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  width: 1729px;
+  top: 572px;
+}
+
+.imageseq {
+  height: 773px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 285px;
+  width: 1729px;
+}
+
+.HOMEPAGE-rectangle-39 {
+  background-color: #000000;
+  height: 8px;
+  left: 0;
+  position: absolute;
+  top: 645px;
+  width: 1728px;
+}
+
+.HOMEPAGE-rectangle-41 {
+  background-color: #000000;
+  height: 8px;
+  left: 0;
+  position: absolute;
+  top: 1141px;
+  width: 1728px;
+}
+
+.HOMEPAGE-olympic-indoor-sports-is-a-high-performance-facility-that-provides-training-in-baseball-softball-cricket-skills {
+  color: #d6d6d6;
+  font-family: "Darker Grotesque", Helvetica;
+  font-size: 29px;
+  font-weight: 700;
+  left: 48px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 748px;
+}
+
+.HOMEPAGE-we-help-student-athletes-gain-confidence-get-better-and {
+  color: #d6d6d6;
+  font-family: "Darker Grotesque", Helvetica;
+  font-size: 28px;
+  font-weight: 700;
+  left: 49px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 849px;
+}
+
+.HOMEPAGE-HAVE-FUN {
+  color: #b8ff5d;
+  font-family: "Inter", Helvetica;
+  font-size: 61px;
+  font-weight: 900;
+  left: 47px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 900px;
+}
+
+.HOMEPAGE-columbia-MD {
+  color: #cdcdcd;
+  font-family: "Inter", Helvetica;
+  font-size: 41px;
+  font-weight: 700;
+  left: 1314px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 1017px;
+}
+
+.HOMEPAGE-ABOUT-US {
+  color: #d6d6d6;
+  font-family: "Darker Grotesque", Helvetica;
+  font-size: 46px;
+  font-weight: 900;
+  left: 48px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 680px;
+}
+
+.HOMEPAGE-vector-8 {
+  height: 4px;
+  left: 261px;
+  position: absolute;
+  top: 716px;
+  width: 569px;
+}
+
+.HOMEPAGE-iconsax-linear-cup {
+  height: 262px;
+  left: 1323px;
+  position: absolute;
+  top: 718px;
+  width: 262px;
+}
+
+.HOMEPAGE-overlap-group15 {
+  height: 708px;
+  left: 0;
+  position: absolute;
+  top: 3757px;
+  width: 1728px;
+}
+
+.HOMEPAGE-overlap-group11 {
+  height: 708px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1728px;
+}
+
+.HOMEPAGE-rectangle-52 {
+  background-color: #d9d9d921;
+  height: 701px;
+  left: 834px;
+  position: absolute;
+  top: 0;
+  width: 894px;
+}
+
+.HOMEPAGE-rectangle-45 {
+  background-color: #252424;
+  border: 2px solid;
+  border-color: #7e7e7e;
+  border-radius: 30px;
+  height: 64px;
+  left: 978px;
+  position: absolute;
+  top: 97px;
+  width: 639px;
+}
+
+.HOMEPAGE-rectangle-49 {
+  background-color: #252424;
+  border: 2px solid;
+  border-color: #7e7e7e;
+  border-radius: 30px;
+  height: 64px;
+  left: 978px;
+  position: absolute;
+  top: 187px;
+  width: 639px;
+}
+
+.HOMEPAGE-rectangle-50 {
+  background-color: #252424;
+  border: 2px solid;
+  border-color: #7e7e7e;
+  border-radius: 30px;
+  height: 64px;
+  left: 978px;
+  position: absolute;
+  top: 277px;
+  width: 639px;
+}
+
+.HOMEPAGE-rectangle-48 {
+  background-color: #252424;
+  border: 2px solid;
+  border-color: #7e7e7e;
+  border-radius: 30px;
+  height: 151px;
+  left: 978px;
+  position: absolute;
+  top: 367px;
+  width: 639px;
+}
+
+.HOMEPAGE-first-name-last-name {
+  color: #c3c3c3;
+  font-family: "Inter", Helvetica;
+  font-size: 20px;
+  font-weight: 300;
+  left: 1020px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 116px;
+}
+input {
+  background-color: transparent;
+  width: 100%;
+}
+input:focus {
+  outline: none;
+}
+
+textarea:focus {
+  outline: none;
+}
+
+.HOMEPAGE-phone-number {
+  color: #c3c3c3;
+  font-family: "Inter", Helvetica;
+  font-size: 20px;
+  font-weight: 300;
+  left: 1020px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 205px;
+}
+
+.HOMEPAGE-email-address {
+  color: #c3c3c3;
+  font-family: "Inter", Helvetica;
+  font-size: 20px;
+  font-weight: 300;
+  left: 1020px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 295px;
+}
+
+.HOMEPAGE-message-or-question {
+  color: #c3c3c3;
+  font-family: "Inter", Helvetica;
+  font-size: 20px;
+  font-weight: 300;
+  left: 1020px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 393px;
+}
+
+.HOMEPAGE-rectangle-51 {
+  background-color: #b8ff5d;
+  height: 65px;
+  left: 1105px;
+  position: absolute;
+  top: 568px;
+  width: 386px;
+}
+
+.HOMEPAGE-SUBMIT {
+  color: #000000;
+  font-family: "Inter", Helvetica;
+  font-size: 30px;
+  font-weight: 700;
+  left: 1100px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 568px;
+}
+
+.HOMEPAGE-rectangle-68 {
+  background-color: #b8ff5d;
+  height: 8px;
+  left: 0;
+  position: absolute;
+  top: 700px;
+  width: 1728px;
+}
+
+.HOMEPAGE-got-questions-we-will-love-to-hear-them {
+  color: transparent;
+  font-family: "Do Hyeon", Helvetica;
+  font-size: 94px;
+  font-weight: 400;
+  left: 80px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 77px;
+  width: 615px;
+}
+
+.HOMEPAGE-text-wrapper-2 {
+  color: #b8ff5d;
+}
+
+.HOMEPAGE-text-wrapper-3 {
+  color: #d0d0d0;
+  font-size: 54px;
+}
+
+.HOMEPAGE-iconsax-linear-messagequestion {
+  height: 311px;
+  left: 227px;
+  position: absolute;
+  top: 301px;
+  width: 311px;
+}
+
+.HOMEPAGE-overlap-group10 {
+  height: 636px;
+  left: -15px;
+  position: absolute;
+  top: 124px;
+  width: 1764px;
+}
+
+.HOMEPAGE-rectangle-9 {
+  background-color: #585858;
+  height: 97px;
+  left: 14px;
+  position: absolute;
+  top: 539px;
+  width: 1729px;
+}
+
+.HOMEPAGE-rectangle-8 {
+  background-color: #0f0f0f;
+  border-radius: 0px 21px 0px 21px;
+  box-shadow: 0px 26px 14px -13px #00000063;
+  height: 66px;
+  left: 0;
+  position: absolute;
+  top: 556px;
+  width: 662px;
+}
+
+.HOMEPAGE-rectangle-14 {
+  background-color: #0f0f0f;
+  border-radius: 21px 21px 0px 0px;
+  box-shadow: 0px 26px 14px -13px #00000063;
+  height: 66px;
+  left: 673px;
+  position: absolute;
+  top: 556px;
+  width: 1091px;
+}
+
+.HOMEPAGE-comp {
+  height: 540px;
+  left: 15px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 1728px;
+}
+
+.HOMEPAGE-rectangle-7 {
+  background-color: #b8ff5d;
+  height: 48px;
+  left: 86px;
+  position: absolute;
+  top: 256px;
+  width: 724px;
+}
+
+.HOMEPAGE-high-performance-facility-in-the-BA {
+  color: transparent;
+  font-family: "Darker Grotesque", Helvetica;
+  font-size: 46px;
+  font-weight: 400;
+  left: 105px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 243px;
+}
+
+.HOMEPAGE-text-wrapper-4 {
+  color: #0f0f0f;
+  font-weight: 700;
+}
+
+.HOMEPAGE-text-wrapper-5 {
+  color: #ffffff;
+}
+
+.HOMEPAGE-OLYMPIC-INDOOR-SPORTS {
+  color: #ffffff;
+  font-family: "Darker Grotesque", Helvetica;
+  font-size: 66px;
+  font-weight: 800;
+  left: 85px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-shadow: 0px 4px 4px #00000040;
+  top: 167px;
+}
+
+.HOMEPAGE-WHAT-WE-DO {
+  color: #ffffff;
+  font-family: "Do Hyeon", Helvetica;
+  font-size: 27px;
+  font-weight: 400;
+  left: 85px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 572px;
+  width: 222px;
+}
+
+.HOMEPAGE-rectangle-10 {
+  background-color: #b8ff5d;
+  height: 12px;
+  left: 263px;
+  position: absolute;
+  top: 584px;
+  width: 367px;
+}
+
+.HOMEPAGE-TICKER {
+  height: 53px;
+  left: 681px;
+  mix-blend-mode: lighten;
+  position: absolute;
+  top: 564px;
+  width: 1062px;
+}
+
+.HOMEPAGE-group-1 {
+  cursor: pointer;
+  height: 50px;
+  left: 109px;
+  position: absolute;
+  top: 327px;
+  transition: all 0.2s ease;
+  width: 185px;
+}
+
+.HOMEPAGE-overlap-group4 {
+  background: linear-gradient(
+    180deg,
+    rgb(184, 255, 93) 0%,
+    rgb(123.07, 200.81, 23.43) 100%
+  );
+  height: 50px;
+  position: relative;
+  width: 183px;
+}
+
+.HOMEPAGE-register {
+  color: #020202;
+  font-family: "Inter", Helvetica;
+  font-size: 19px;
+  font-weight: 700;
+  left: 51px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 15px;
+}
+
+.HOMEPAGE-group-2 {
+  cursor: pointer;
+  height: 50px;
+  left: 305px;
+  position: absolute;
+  top: 327px;
+  transition: all 0.2s ease;
+  width: 202px;
+}
+
+.HOMEPAGE-overlap-group5 {
+  background: linear-gradient(
+    180deg,
+    rgb(253, 235, 113) 0%,
+    rgb(248, 216, 0) 100%
+  );
+  height: 50px;
+  position: relative;
+  width: 200px;
+}
+
+.HOMEPAGE-learn-more {
+  color: #020202;
+  font-family: "Inter", Helvetica;
+  font-size: 19px;
+  font-weight: 700;
+  left: 48px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 14px;
+  width: 105px;
+}
+
+.HOMEPAGE-overlap-group13 {
+  background-color: #0f0f0f;
+  height: 64px;
+  left: 0;
+  position: absolute;
+  top: 4799px;
+  width: 1728px;
+}
+
+.HOMEPAGE-element-olympic-indoor-sports-powered-by-eazy-eyez-entertainment {
+  color: #ffffff;
+  font-family: "Chakra Petch", Helvetica;
+  font-size: 15px;
+  font-weight: 400;
+  left: 627px;
+  letter-spacing: 0;
+  line-height: 18px;
+  position: absolute;
+  top: 7px;
+}
+
+.HOMEPAGE-overlap-group9 {
+  background-color: #1a1a1a;
+  height: 334px;
+  left: 0;
+  position: absolute;
+  top: 4465px;
+  width: 1728px;
+}
+
+.HOMEPAGE-olympic-indoor-sports-a-game-changing-platform-for-young-athletes-in-maryland-to-step-up-and-show-off-their-skills-in-sports-such-as-baseball-softball-cricket-and-lacrosse-our-mission-is-to-provide-a-comprehensive-space-where-these-young-rising-stars-can-take-a-swing-at-their-athletic-aspirations-and-score-big-in-the-game-of-life-we-re-proud-to-be-the-home-plate-for-the-future-generation-of-american-sports-and-we-hope-to-establish-a-precedent-for-other-players-in-the-industry-so-come-on-over-join-the-team-and-let-s-play-ball {
+  color: #ffffff;
+  font-family: "Inter", Helvetica;
+  font-size: 12px;
+  font-weight: 400;
+  left: 46px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 94px;
+  width: 514px;
+}
+
+.HOMEPAGE-the-facility {
+  color: #ffffff;
+  font-family: "Inter", Helvetica;
+  font-size: 12px;
+  font-weight: 400;
+  left: 687px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 121px;
+  width: 69px;
+}
+
+.HOMEPAGE-olympic-indoor-sports-red-branch-rd-suite-a-columbia-MD {
+  color: #ffffff;
+  font-family: "Inter", Helvetica;
+  font-size: 12px;
+  font-weight: 400;
+  left: 847px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 121px;
+  width: 168px;
+}
+
+.HOMEPAGE-text-wrapper-6 {
+  font-weight: 900;
+}
+
+.HOMEPAGE-text-wrapper-7 {
+  color: #ffffff;
+  font-family: "Inter", Helvetica;
+  font-size: 12px;
+  font-weight: 400;
+  letter-spacing: 0;
+}
+
+.HOMEPAGE-element-AM-EST-PM-EST-from-monday-to-sunday-you-will-receive-a-prompt-response-from-our-team-within-hours {
+  color: #ffffff;
+  font-family: "Inter", Helvetica;
+  font-size: 12px;
+  font-weight: 400;
+  left: 1072px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 121px;
+  width: 262px;
+}
+
+.HOMEPAGE-text-wrapper-8 {
+  font-weight: 700;
+}
+
+.HOMEPAGE-overlap-group14 {
+  height: 277px;
+  left: 1388px;
+  position: absolute;
+  top: 37px;
+  width: 319px;
+}
+
+.HOMEPAGE-email-info-olympicindoorsports-com-phone {
+  color: #ffffff;
+  font-family: "Inter", Helvetica;
+  font-size: 12px;
+  font-weight: 400;
+  left: 3px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 84px;
+  width: 262px;
+}
+
+.HOMEPAGE-group-3 {
+  cursor: pointer;
+  height: 35px;
+  left: 0;
+  position: absolute;
+  top: 130px;
+  transition: all 0.2s ease;
+  width: 142px;
+}
+
+.HOMEPAGE-overlap-group6 {
+  background: linear-gradient(
+    180deg,
+    rgb(255, 247, 32) 0%,
+    rgb(60, 213, 0) 100%
+  );
+  height: 35px;
+  position: relative;
+  width: 140px;
+}
+
+.HOMEPAGE-div {
+  color: #020202;
+  font-family: "Inter", Helvetica;
+  font-size: 13px;
+  font-weight: 700;
+  left: 34px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 10px;
+  width: 74px;
+}
+
+.HOMEPAGE-LOGOEMBLEM {
+  height: 277px;
+  left: 42px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 277px;
+}
+
+.HOMEPAGE-CONTACT-US-2 {
+  color: #b8ff5d;
+  font-family: "Inter", Helvetica;
+  font-size: 12px;
+  font-weight: 900;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 57px;
+}
+
+.HOMEPAGE-memberships {
+  color: #ffffff;
+  font-family: "Inter", Helvetica;
+  font-size: 12px;
+  font-weight: 400;
+  left: 687px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 145px;
+  width: 87px;
+}
+
+.HOMEPAGE-batting-cages {
+  color: #ffffff;
+  font-family: "Inter", Helvetica;
+  font-size: 12px;
+  font-weight: 400;
+  left: 687px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 169px;
+  width: 87px;
+}
+
+.HOMEPAGE-programs-events {
+  color: #ffffff;
+  font-family: "Inter", Helvetica;
+  font-size: 12px;
+  font-weight: 400;
+  left: 687px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 193px;
+  width: 114px;
+}
+
+.HOMEPAGE-contact-us {
+  color: #ffffff;
+  font-family: "Inter", Helvetica;
+  font-size: 12px;
+  font-weight: 400;
+  left: 687px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 217px;
+  width: 114px;
+}
+
+.HOMEPAGE-QUICK-LINKS {
+  color: #b8ff5d;
+  font-family: "Inter", Helvetica;
+  font-size: 12px;
+  font-weight: 900;
+  left: 681px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 94px;
+}
+
+.HOMEPAGE-LOCATION {
+  color: #b8ff5d;
+  font-family: "Inter", Helvetica;
+  font-size: 12px;
+  font-weight: 900;
+  left: 844px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 94px;
+}
+
+.HOMEPAGE-TIMINGS {
+  color: #b8ff5d;
+  font-family: "Inter", Helvetica;
+  font-size: 12px;
+  font-weight: 900;
+  left: 1069px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 94px;
+}
+
+.HOMEPAGE-LOGOEMBLEM-2 {
+  height: 677px;
+  left: 157px;
+  object-fit: cover;
+  position: fixed;
+  top: 2894px;
+  width: 677px;
+}
